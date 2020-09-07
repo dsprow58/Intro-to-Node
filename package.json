@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.18.2",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsprow58/Intro-to-Node.git"
+  },
+  "author": "Dan Sprow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsprow58/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/dsprow58/Intro-to-Node#readme"
+}
